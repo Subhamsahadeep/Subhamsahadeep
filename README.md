@@ -6,4 +6,5 @@ Overall, I'm a dedicated developer who is passionate about delivering exceptiona
 
 - 📫 How to reach me via subhamsahadeep@gmail.com
 
-**Page Views**(Counting since 3th Feb 2023): ![Visitor Count](https://profile-counter.glitch.me/Subhamsahadeep/count.svg)
+**Page Views**(Counting since 15th August 2023): 
+![Visitor Count](https://profile-counter.glitch.me/Subhamsahadeep/count.svg)
