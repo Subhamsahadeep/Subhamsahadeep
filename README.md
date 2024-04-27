@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subham Saha ( https://subhamsahadeep.github.io/portfolio/#/Portfolio )
+- 👋 Hi, I’m Subham Saha ( https://subhamsahadeep.github.io/portfolio/ )
 
 I'm a Software Development Engineer 2 and a Full Stack Web Developer with 4 years of experience. I have a proven track record of developing innovative and user-friendly web applications, with over 7 customer-facing products that have gained a user base from all over India.
 Working in a startup culture from the beginning has provided me with valuable experience in all aspects of web development, including design, development, testing, and deployment. I have a deep understanding of user experience and design principles, which allows me to create interfaces that are visually appealing and intuitive.
